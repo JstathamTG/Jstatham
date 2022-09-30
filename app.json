@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/JoeykingTG/JoeyKing",
-    "repository": "https://github.com/JoeykingTG/JoeyKing",
+    "website": "https://github.com/JstathamTG/Jstatham",
+    "repository": "https://github.com/JstathamTG/Jstatham",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
